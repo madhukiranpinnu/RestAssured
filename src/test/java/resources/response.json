@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1299,
+        "first_name": "madhukiran",
+        "last_name": "pinnu",
+        "email": "madhu918@gmail.com",
+        "jobs": [
+            "tester",
+            "shopkeeper"
+        ],
+        "food": {
+            "breakfast": "idly",
+            "lunch": "rice",
+            "dinner": [
+                "chapathi",
+                "poori"
+            ]
+        }
+    }
+]
